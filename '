@@ -1,0 +1,12 @@
+Revert "Add aaa.photo"
+
+This reverts commit e0ed50348512856913d5270ca15d44361833f600.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	deleted:    aaa.jpg
+#	deleted:    index2.html
+#
